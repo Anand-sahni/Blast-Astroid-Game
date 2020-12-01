@@ -1,4 +1,6 @@
 # You can check out this game by clicking on the links provided below.
+<br/>
+https://anand-sahni.github.io/Blast-Astroid-Game/
 ### Enjoy the game!
 ### Only compatible with desktop.
 
