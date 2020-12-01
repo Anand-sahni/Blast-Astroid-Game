@@ -1,3 +1,7 @@
+# You can check out this game by clicking on the links provided below.
+### Enjoy the game!
+### Only compatible with desktop.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Anand-sahni/Blast-Astroid-Game/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
